@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libMVC_Architecture.so -o libMVC_Architecture.so CMakeFiles/MVC_Architecture.dir/src/MVC_Architecture.cpp.o  -lstdc++fs 

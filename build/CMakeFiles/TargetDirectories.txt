@@ -1,0 +1,4 @@
+/home/tomccd/Code/C++/MVC_USB/build/CMakeFiles/MVC_Architecture.dir
+/home/tomccd/Code/C++/MVC_USB/build/CMakeFiles/main.dir
+/home/tomccd/Code/C++/MVC_USB/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Code/C++/MVC_USB/build/CMakeFiles/rebuild_cache.dir
